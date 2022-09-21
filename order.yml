@@ -14,4 +14,4 @@ eureka:
       defaultZon: "http://localhost:8761/eureka/"
 girl:
   name: lili
-  age: 22
+  age: 18
